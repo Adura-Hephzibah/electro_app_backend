@@ -10,7 +10,7 @@ This repository contains the source code for the API for an Electricity Distribu
 
 ## Getting Started
 
-The following steps will ensure you can set up the project on your local nachine for development.
+The following steps will ensure you can set up the project on your local machine for development.
 
 
 ### System Requirements
@@ -27,19 +27,19 @@ The following steps will ensure you can set up the project on your local nachine
 
 ### Installing
 
-1. Clone the repository:
+A. Clone the repository
 
 ```sh
 git clone https://github.com/Adura-Hephzibah/electro_app_backend.git
 ```
 
-2. Enter Project Repo
+B. Enter Project Repo
 
 ```sh
 cd electro_app_backend
 ```
 
-3. Install NPM packages:
+C. Install dependencies
 
 ```sh
 npm install
