@@ -1,5 +1,5 @@
 {
-  "name": "electricity_app_backend",
+  "name": "electro_app_backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Danny-Flames/electricity_app_backend.git"
+    "url": "git+https://github.com/Adura-Hephzibah/electro_app_backend.git"
   },
   "author": "Heph",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Danny-Flames/electricity_app_backend/issues"
+    "url": "https://github.com/Adura-Hephzibah/electro_app_backend.git/issues"
   },
-  "homepage": "https://github.com/Danny-Flames/electricity_app_backend#readme",
+  "homepage": "https://github.com/Adura-Hephzibah/electro_app_backend.git#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
